@@ -1,0 +1,14 @@
+algoritmo "area_circulo"
+// Função : Calcula a area de uma circunferencia
+// Autor : Leandro
+// Data : 11/10/2020
+// Seção de Declarações 
+var
+A: real
+R: real
+inicio
+// Seção de Comandos
+leia(R)
+A <- 3.114159*R^2
+escreva(A)
+fimalgoritmo
